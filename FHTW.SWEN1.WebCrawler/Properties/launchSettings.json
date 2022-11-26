@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "FHTW.SWEN1.WebCrawler": {
+      "commandName": "Project",
+      "commandLineArgs": "-p 2 https://www.google.com/"
+    }
+  }
+}
